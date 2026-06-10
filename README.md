@@ -68,7 +68,7 @@ Queue Workers         — Redis-backed async job processing
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/taskflow-api.git
+git clone https://github.com/JavohirDITE/taskflow-api.git
 cd taskflow-api
 
 # 2. Copy environment file
